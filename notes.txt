@@ -1,0 +1,2 @@
+database = permanent data storage 
+java = strongly types language (we need to set the type of the variable)
