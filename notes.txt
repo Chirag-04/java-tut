@@ -22,3 +22,11 @@ char=> 2bytes
 
  boolean check  = true;
 
+
+______________________________________
+
+
+In Java, literals are the fixed values that are assigned to variables. They represent constant values directly in the code.
+
+
+
