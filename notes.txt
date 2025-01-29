@@ -1,2 +1,24 @@
 database = permanent data storage 
 java = strongly types language (we need to set the type of the variable)
+
+______________________________________
+
+Integer - int, long , short , byte
+int  = 4 bytes
+long  = 8 bytes
+short  = 2 bytes
+int a =  13;
+long b = 16f;
+byte = 1 bybte = -2^7 - 2^7-1 (-128 to 127)
+
+
+for floating numbers = float and double
+double is by default in java
+double num = 3.4 ✅
+float num = 3.4f ✅
+
+char=> 2bytes
+ char ch = 'k';
+
+ boolean check  = true;
+
