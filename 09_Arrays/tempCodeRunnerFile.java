@@ -1,0 +1,2 @@
+t.println(nums[i]);
+        }
