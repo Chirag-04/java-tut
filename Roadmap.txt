@@ -1,0 +1,79 @@
+Core Java Topics
+____________________________________________________________________________
+Object-Oriented Programming (OOP)
+
+Classes, Objects ✅
+Inheritance  ✅
+Polymorphism 
+Encapsulation 
+Abstraction
+Method Overloading ✅
+Method Overriding  ✅
+____________________________________________________________________________
+
+***Data Types and Variables***
+
+Primitive vs. Non-primitive types ✅
+Type casting✅
+Control Flow Statements✅
+
+if-else, switch ✅
+Loops (for, while, do-while) ✅
+Exception Handling
+
+try-catch-finally
+Custom exceptions
+Checked and unchecked exceptions
+____________________________________________________________________________
+
+Collections Framework
+ArrayList
+HashMap
+LinkedList
+HashSet
+Iterators and Streams
+
+____________________________________________________________________________
+
+Generics
+Generic classes and methods
+Wildcards in Generics (? extends, ? super)
+I/O Streams
+
+Reading and writing files (BufferedReader, FileWriter, etc.)
+Serialization and Deserialization
+____________________________________________________________________________
+
+Java 8 Features
+Lambda expressions
+Streams API
+Functional interfaces (@FunctionalInterface)
+Method references
+Optional
+
+____________________________________________________________________________
+
+Multithreading and Concurrency
+
+Thread class and Runnable interface
+Synchronization and locks
+Executor framework
+CompletableFuture
+____________________________________________________________________________
+
+Annotations
+
+Built-in annotations (@Override, @SuppressWarnings, etc.)
+Custom annotations
+
+____________________________________________________________________________
+
+Java Reflection API
+
+Understanding and creating dynamic methods at runtime
+____________________________________________________________________________
+
+JDBC (Java Database Connectivity)
+
+Connecting Java applications with relational databases
+Prepared statements and result set
