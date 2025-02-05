@@ -5,6 +5,7 @@ class Parent{
     }
 }
 class Child extends Parent{
+    @Override
     void display(){
         super.display();
         System.out.println("parent's varible inside child class" + " " +super.x);
