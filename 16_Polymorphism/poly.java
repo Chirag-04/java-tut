@@ -24,7 +24,7 @@ public class poly {
         b.display();
         Transport c2 = new Car(); // object of cat and reference of animal
         c2.display(); 
-        c2.carDisplay();// error reference is of transport so we can call methods of transport only 
+        ((Car)c2).carDisplay();// error reference is of transport so we can call methods of transport only 
     }
 }
  
