@@ -4,8 +4,8 @@ Object-Oriented Programming (OOP)
 
 Classes, Objects ✅
 Inheritance  ✅
-Polymorphism 
-Encapsulation 
+Polymorphism ✅
+Encapsulation  ✅
 Abstraction
 Method Overloading ✅
 Method Overriding  ✅
