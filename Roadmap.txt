@@ -6,7 +6,7 @@ Classes, Objects ✅
 Inheritance  ✅
 Polymorphism ✅
 Encapsulation  ✅
-Abstraction
+Abstraction ✅
 Method Overloading ✅
 Method Overriding  ✅
 ____________________________________________________________________________
@@ -77,3 +77,23 @@ JDBC (Java Database Connectivity)
 
 Connecting Java applications with relational databases
 Prepared statements and result set
+
+
+
+
+
+
+
+Collection Framework
+https://www.youtube.com/watch?v=VE_AAUxTUCY&list=PL4WwUkr0wZURiHPaQDb-SwkY36QUAgc4p&index=1&pp=iAQB
+
+
+Multithreading
+https://www.youtube.com/watch?v=4aYvLz4E1Ts&ab_channel=EngineeringDigest
+
+Java interface
+https://www.youtube.com/watch?v=PpxzFint1IA&list=PLA3GkZPtsafY62QhQ030p85HAer0pFDdr&index=27&ab_channel=EngineeringDigest
+
+
+Java 8
+https://www.youtube.com/watch?v=mafkhtals0o&pp=ygUUamF2YSA4IGNvdXJzZSBkdXJnZWg%3D
