@@ -17,3 +17,5 @@ public class utility {
         System.out.println(Utils.trimAndUpperCase(s));
     }
 }
+
+
